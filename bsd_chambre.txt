@@ -1,0 +1,4 @@
+Base de données (sql):
+admin[id_admin-> int -> 10, Nom -> varchar -> 10, Prenom -> varchar -> 30, Adresse -> varchar -> 30]
+Chambre[id_chambre-> int -> 10, surface-> int -> 10]
+Etudiant[code -> int -> 10, Nom -> varchar -> 10, Prenom -> varchar -> 30, Email -> email -> 20 ,sexe->varchar -> 10]
